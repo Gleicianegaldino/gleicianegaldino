@@ -15,9 +15,9 @@ Sou formada em **Sistemas para Internet pelo IFPE** e apaixonada por unir **tecn
 
 ### 🚀 O que estou fazendo no momento  
 
-- 📌 Explorando o desenvolvimento full stack com **React.js, PHP e Symfony**.  
-- 📌 Criando interfaces acessíveis e intuitivas com **Figma e Design Thinking**.  
-- 📌 Aprofundando conhecimentos em **banco de dados SQL e NoSQL**.  
+📌 Explorando o desenvolvimento full stack com **React.js, PHP e Symfony**.  
+📌 Criando interfaces acessíveis e intuitivas com **Figma e Design Thinking**.  
+📌 Aprofundando conhecimentos em **banco de dados SQL e NoSQL**.  
 
 
 
