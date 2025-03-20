@@ -1,6 +1,6 @@
 
 # 👋 Olá, eu sou a Gle!  
-💻 **Desenvolvedora de Software** | 🎨 **UX/UI Designer**  <img src="https://github.com/user-attachments/assets/383ce2ab-59cf-46be-8dba-21dca9015537" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+💻 **Desenvolvedora de Software** | 🎨 **UX/UI Designer**  <img src="https://github.com/user-attachments/assets/383ce2ab-59cf-46be-8dba-21dca9015537" alt="ilustração de um computador" min-width="320px" max-width="320px" width="320px" align="right">
 
 Sou formada em **Sistemas para Internet pelo IFPE** e apaixonada por unir **tecnologia e design** para criar soluções inovadoras, acessíveis e que realmente impactam a experiência do usuário.  
 
